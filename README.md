@@ -4,7 +4,6 @@
 🔗 **Live Demo:** https://adrika-02.github.io/Fashion-Catalog/
 
 ## ✨ Features
-
 - 🛍️ Interactive catalog layout for fashion items
 - 💬 JavaScript-powered dynamic content or filtering (if applicable)
 - 🎨 Elegant styling using custom CSS
